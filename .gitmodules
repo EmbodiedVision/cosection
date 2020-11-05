@@ -1,0 +1,3 @@
+[submodule "external/emfusion"]
+	path = external/emfusion
+	url = https://github.com/EmbodiedVision/emfusion.git
