@@ -4,7 +4,7 @@
 
 This repository provides source code for Co-Section accompanying the following publication:
 
-*Michael Strecke and Joerg Stuecker, "**Where Does It End? - Reasoning About
+*Michael Strecke and Joerg Stueckler, "**Where Does It End? - Reasoning About
 Hidden Surfaces by Object Intersection Constraints**"*  
 *Presented at the **IEEE/CVF Conference on Computer Vision and Pattern
 Recognition (CVPR) 2020**, (virtual conference)*
