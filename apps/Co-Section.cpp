@@ -139,8 +139,7 @@ void main_loop ( const emf::Params& globalParams,
 
     while ( reader->moreFrames() ) {
 
-        reader->nextFrame();
-        RGBD frame = reader->getFrame();
+        RGBD frame = reader->getNextFrame();
 
         cv::Mat depth = frame.getDepth();
 
