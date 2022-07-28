@@ -28,7 +28,7 @@ If you use the source code provided in this repository for your research, please
 ### 1. Setup EM-Fusion
 
 Our code builds upon EM-Fusion and needs the same requirements. Install the
-requirements listed in the [EM-Fusion readme](https://gitlab.localnet/embodied-vision/ev-projects-michael-strecke/code/emfusion-release#0-install-dependencies) and set up Mask R-CNN as described
+requirements listed in the [EM-Fusion readme](https://github.com/EmbodiedVision/emfusion#0-install-dependencies) and set up Mask R-CNN as described
 there. The easiest way to do this is to clone this repository with 
 `git clone --recursive` change to `external/emfusion` and work through steps 0
 and 1 of the EM-Fusion Getting started instructions.
